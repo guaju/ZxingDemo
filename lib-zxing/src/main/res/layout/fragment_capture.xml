@@ -3,6 +3,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent" >
 
+
     <SurfaceView
         android:id="@+id/preview_view"
         android:layout_width="wrap_content"
@@ -13,6 +14,7 @@
         android:id="@+id/viewfinder_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+
 
 
 

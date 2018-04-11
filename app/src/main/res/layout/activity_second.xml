@@ -4,6 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+
     <Button
         android:id="@+id/tv1"
         android:layout_above="@+id/tv2"
@@ -42,4 +43,10 @@
         android:layout_height="match_parent"
         ></FrameLayout>
 
+    <LinearLayout
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="#ff0000"
+        ></LinearLayout>
 </RelativeLayout>
